@@ -4,12 +4,6 @@
 
 Official project repository for *We Are What We Remember: Mental-State-Driven Memory for Long-Term Character Dialogue*.
 
-**Zhicheng Jia\*, Shuchen Wu\*, Zhuoshi Tong\*, Haisen Liao, Sicheng Zhou**
-
-Livo Team, Kuaikan World · China Agricultural University · University of Chinese Academy of Sciences · Nanyang Technological University
-
-\* Equal contribution.
-
 [Overview](#overview) · [Method](#method) · [MemReal-Bench](#memreal-bench) · [Results](#results) · [Release Plan](#release-plan)
 
 ## News
